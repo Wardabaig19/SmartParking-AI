@@ -5,6 +5,9 @@ The SmartParking AI System is a scalable, computer vision-based application desi
 This edge-based parking management system utilizes a lightweight computer vision model to analyze standard CCTV video footage in real time.  
 
 ---
+<img width="600" height="338" alt="demo" src="https://github.com/user-attachments/assets/2c6b81f6-9ffe-47b1-9269-40fbba56f26f" />
+
+<img width="2677" height="1645" alt="image" src="https://github.com/user-attachments/assets/3f382aeb-c10e-4634-8beb-086e4f749fa7" />
 
 ## 🧠 Core Architecture & My Contributions
 This system was developed collaboratively. My primary responsibilities centered on the intelligence and data persistence layers:
