@@ -44,7 +44,7 @@ This system was developed collaboratively. My primary responsibilities centered 
 1. **Extract the Project:** Extract the provided project folder to your preferred location.  
 2. **Install Dependencies:** With your virtual environment active, run the following command in your terminal:  
    ```bash
-   pip install streamlit ultralytics opencv-python pandas plotly
+   pip install streamlit ultralytics opencv-python-headless pandas plotly
 3. **Launch the Application:** In your active terminal, ensure you are in the main project directory and run:
     ```bash
     streamlit run app.py
